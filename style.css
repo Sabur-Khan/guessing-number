@@ -1,0 +1,198 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+button, input{
+    border: none;
+}
+h1, h2, h3, h4, h5, h6{
+    margin: 0;
+    padding: 0;
+}
+/*================ boxe style one ================*/
+.box-one{
+	width: 680px;
+	height: 500px;
+    padding: 10px;
+    text-align: center;
+	margin: 30px auto;
+	border-radius: 20px;
+	box-shadow: 0px 0px 12px -4px;
+}
+.box-one .game-title{
+    color: black;
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 80px;
+    font-weight: bold;
+    font-family: monospace, sans-serif;
+}
+.box-one .first-input{
+    width: 400px;
+    height: 70px;
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0px 20px;
+    border-radius: 40px;
+    font-family: monospace;
+    border: 1px solid #c1c1c1;
+}
+.box-one .first-button{
+    width: 230px;
+    height: 50px;
+    cursor: pointer;
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    border-radius: 40px;
+    background-color: #7041D3;
+}
+.box-one .error{
+    width: 200px;
+    padding: 10px 0px;
+    font-size: 16px;
+    color: white;
+    font-weight: bold;
+    border-radius: 40px;
+    margin: 10px auto;
+    display: none;
+    background-color: #ff0000;
+}
+
+/*================ boxe style two ================*/
+.box-one .game-title-two{
+    color: black;
+    font-size: 40px;
+    display: none;
+    text-align: center;
+    margin-bottom: 100px;
+    font-weight: bold;
+    font-family: monospace, sans-serif;
+}
+.box-one .second-input{
+    width: 400px;
+    height: 70px;
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0px 20px;
+    border-radius: 40px;
+    display: none;
+    font-family: monospace;
+    border: 1px solid #c1c1c1;
+}
+.box-one .second-button{
+    width: 230px;
+    height: 50px;
+    cursor: pointer;
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    display: none;
+    border-radius: 40px;
+    background-color: #7041D3;
+}
+.box-one .error-two{
+    width: 200px;
+    padding: 10px 0px;
+    font-size: 16px;
+    color: white;
+    font-weight: bold;
+    border-radius: 40px;
+    margin: 10px auto;
+    display: none;
+    background-color: #ff0000;
+}
+
+
+/*================ boxe style three ================*/
+.box-one .game-title-three{
+    color: black;
+    font-size: 40px;
+    display: none;
+    text-align: center;
+    margin-bottom: 100px;
+    font-weight: bold;
+    font-family: monospace, sans-serif;
+}
+.box-one .three-input{
+    width: 400px;
+    height: 70px;
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0px 20px;
+    border-radius: 40px;
+    display: none;
+    font-family: monospace;
+    border: 1px solid #c1c1c1;
+}
+.box-one .three-button{
+    width: 230px;
+    height: 50px;
+    cursor: pointer;
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    display: none;
+    border-radius: 40px;
+    background-color: #7041D3;
+}
+.box-one .error-three{
+    width: 200px;
+    padding: 10px 0px;
+    font-size: 16px;
+    color: white;
+    font-weight: bold;
+    border-radius: 40px;
+    margin: 10px auto;
+    display: none;
+    background-color: #ff0000;
+}
+
+/*================ boxe style four ================*/
+.box-one .game-title-four{
+    color: black;
+    font-size: 40px;
+    display: none;
+    text-align: center;
+    margin-bottom: 100px;
+    font-weight: bold;
+    font-family: monospace, sans-serif;
+}
+.box-one .four-input{
+    width: 400px;
+    height: 70px;
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0px 20px;
+    border-radius: 40px;
+    display: none;
+    font-family: monospace, sans-serif;
+    border: 1px solid #c1c1c1;
+}
+.box-one .four-button{
+    width: 230px;
+    height: 50px;
+    cursor: pointer;
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    display: none;
+    border-radius: 40px;
+    background-color: #7041D3;
+}
+.box-one .error-four{
+    width: 200px;
+    padding: 10px 0px;
+    font-size: 16px;
+    color: white;
+    font-weight: bold;
+    border-radius: 40px;
+    margin: 10px auto;
+    display: none;
+    background-color: #ff0000;
+}
