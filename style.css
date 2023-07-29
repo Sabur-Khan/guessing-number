@@ -196,3 +196,26 @@ h1, h2, h3, h4, h5, h6{
     display: none;
     background-color: #ff0000;
 }
+
+/* respoinsive */
+
+@media (max-width: 576px){ 
+    .box-one {
+        width: 96%;
+    }
+    .box-one .game-title {
+        font-size: 31px;
+    }
+    .box-one .first-input {
+        width: 100%;
+    }
+    .box-one .second-input {
+        width: 100%;
+    }
+    .box-one .three-input {
+        width: 100%;
+    }
+    .box-one .four-input {
+        width: 100%;
+    }
+}
