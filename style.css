@@ -225,4 +225,8 @@ h1, h2, h3, h4, h5, h6{
     .box-one .four-input {
         width: 100%;
     }
+    .banner {
+        width: 100%;
+        height: inherit;
+    }
 }
